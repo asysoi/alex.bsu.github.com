@@ -6,7 +6,7 @@ public class HelloBSU {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Sytem.out.println("Welcome ");
+		Sytem.out.println("Welcome BSU");
 	}
 
 }
