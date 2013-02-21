@@ -1,6 +1,6 @@
 
 public class HelloBSU {
-
+    
 	/**
 	 * @param args 
 	 */
@@ -9,4 +9,5 @@ public class HelloBSU {
 		System.out.println("Welcome BSU");
 	}
 
+	
 }
